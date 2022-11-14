@@ -3,8 +3,9 @@
 ## Istruzioni per l'installazione
 
 - Creare un nuovo progetto c++ su Visual Studio
+- Scaricare lo zip di questa repo
+- Copiare tutti i file e la cartella fonts nella directory del progetto
 - Posizionare i file con estensione .cpp e .glsl nei file di origine
 - Posizionare i file con estensione .h nei file di intestazione
-- Copiare la cartella fonts nella directory del progetto
 - Installare i pacchetti NuGet nupengl.core e glm
 - Installare la libreria Freetype
